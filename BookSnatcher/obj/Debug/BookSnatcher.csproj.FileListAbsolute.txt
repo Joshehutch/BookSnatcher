@@ -1,0 +1,9 @@
+D:\Users\Jedi Master\Documents\C++ Crap\BookSnatcher\BookSnatcher\bin\Debug\BookSnatcher.exe.config
+D:\Users\Jedi Master\Documents\C++ Crap\BookSnatcher\BookSnatcher\bin\Debug\BookSnatcher.exe
+D:\Users\Jedi Master\Documents\C++ Crap\BookSnatcher\BookSnatcher\bin\Debug\BookSnatcher.pdb
+D:\Users\Jedi Master\Documents\C++ Crap\BookSnatcher\BookSnatcher\obj\Debug\BookSnatcher.csprojResolveAssemblyReference.cache
+D:\Users\Jedi Master\Documents\C++ Crap\BookSnatcher\BookSnatcher\obj\Debug\BookSnatcher.Properties.Resources.resources
+D:\Users\Jedi Master\Documents\C++ Crap\BookSnatcher\BookSnatcher\obj\Debug\BookSnatcher.csproj.GenerateResource.Cache
+D:\Users\Jedi Master\Documents\C++ Crap\BookSnatcher\BookSnatcher\obj\Debug\BookSnatcher.exe
+D:\Users\Jedi Master\Documents\C++ Crap\BookSnatcher\BookSnatcher\obj\Debug\BookSnatcher.pdb
+D:\Users\Jedi Master\Documents\C++ Crap\BookSnatcher\BookSnatcher\obj\Debug\BookSnatcher.Book_Snatcher.resources
